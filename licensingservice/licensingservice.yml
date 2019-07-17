@@ -15,5 +15,5 @@ spring.datasource.username: root
 spring.datasource.password: rootmysql
 spring.datasource.driver-class-name: com.mysql.jdbc.Driver
 spring.jpa.properties.hibernate.dialect: org.hibernate.dialect.MySQL5InnoDBDialect
-example.property: "ejemplo prop actualizado"
+example.property: "ejemplo prop actualizado de nuevo"
 management.endpoints.web.exposure.include: "*"
