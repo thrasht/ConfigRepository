@@ -17,3 +17,4 @@ hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds: 2500
 signing.key: "345345fsdfsf5345"
 
 management.endpoints.web.exposure.include: '*'
+hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds: 2500
